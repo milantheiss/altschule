@@ -20,7 +20,7 @@ public class Tastatur {
       return tmp;
     }
   }
-
+//
   /**
    * Einlesen einer Zahl.
    */
