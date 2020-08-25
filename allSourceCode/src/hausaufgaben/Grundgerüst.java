@@ -16,7 +16,7 @@ public class Grundgerüst {
         System.out.println(str1+str2);*/
 
         //Aufgabe 6
-
+ 
         /*System.out.println("Type: ");
         int i1 = sc.nextInt();
         int i2 = sc.nextInt();
