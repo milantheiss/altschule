@@ -1,5 +1,5 @@
 # Schule
-Der Source Code in diesem Repositorie sind aus und für den Programmier Unterricht bzw. beziehen sich auf diesen.  
+Der Source Code in dieser Repositorie sind aus und für den Programmier Unterricht bzw. beziehen sich auf diesen.  
 Der Source Code sind Open-Source. Ich möchte bei Benutzung, Adaption etc. benachrichtigt werden.  
 Allgemein gilt, gebt den Source Code nicht für euren eigenen Source Code aus.  
 
