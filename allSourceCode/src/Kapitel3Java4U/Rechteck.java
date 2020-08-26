@@ -36,6 +36,6 @@ public class Rechteck {
     }
 
     public void showFlaeche(){
-        System.out.println("Die Fläche beträgt: "+((this.setSeiteA/100)*(this.setSeiteB/100))+" m*m");
+        System.out.println("Die Fläche beträgt: "+((this.seiteA/100)*(this.seiteB/100))+" m*m");
     }
 }
