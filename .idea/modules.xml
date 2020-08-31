@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aufgaben3108/Aufgaben3108.iml" filepath="$PROJECT_DIR$/Aufgaben3108/Aufgaben3108.iml" />
       <module fileurl="file://$PROJECT_DIR$/allSourceCode/allSourceCode.iml" filepath="$PROJECT_DIR$/allSourceCode/allSourceCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/schule.iml" filepath="$PROJECT_DIR$/.idea/schule.iml" />
     </modules>

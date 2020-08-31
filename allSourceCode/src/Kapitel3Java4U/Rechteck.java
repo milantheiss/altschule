@@ -12,6 +12,7 @@ public class Rechteck {
     }
 
     public void setSeiteA(String seiteA){
+
         this.setSeiteA((Double.parseDouble(seiteA)));
     }
 
