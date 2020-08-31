@@ -1,7 +1,5 @@
 package hausaufgaben;
 
-import miltheLibrary.Tastatur;
-
 import java.util.Scanner;
 
 /**
@@ -24,7 +22,7 @@ public class Grundgerüst {
 
         //Aufgabe 4 & 5
         /**
-         * Tastatur stellt zur Verfügung: leseZeichen(), leseZahl(), leseKommazahl(), leseText()
+         * hausaufgaben.Tastatur stellt zur Verfügung: leseZeichen(), leseZahl(), leseKommazahl(), leseText()
          */
 
 
@@ -61,7 +59,7 @@ public class Grundgerüst {
         System.out.println("Sum: "+erg);
 
         /**
-         * Mit Tastatur.java
+         * Mit hausaufgaben.Tastatur.java
          */
         int erg2 = Tastatur.leseZahl() + Tastatur.leseZahl();
         System.out.println("Sum: "+erg);

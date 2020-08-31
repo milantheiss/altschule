@@ -3,7 +3,9 @@ import java.util.Scanner;
 public class Temperatur {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double tp = sc.nextDouble();
+
+        double tp = sc.nextDouble(); //Temperatur Variable
+
         if (tp < 0){
             System.out.println("frostig");
         }
